@@ -8,9 +8,9 @@ I am a Software Engineer at Saama Technologies, with a background in Computer Sc
 
 My current focus lies in exploring Large Language Models (LLMs), as I am deeply passionate about leveraging their capabilities. This passion has led me to develop a keen interest in Machine Learning (ML) and Deep Learning (DL).
 
-My journey into ML and DL began with a fascination for artificial intelligence (AI). I quickly realized that Data Science effectively integrates both ML and DL, which motivated me to undertake a 6-month Data Science course. Throughout the course, I found the subject to be captivating and have since been committed to expanding my knowledge further.
+My journey into ML and DL began with a fascination for artificial intelligence (AI). I quickly realized that Data Science effectively integrates both ML and DL, which motivated me to undertake a 6-month Data Science course. Throughout the course, I found the subject to be captivating and have since been committed to expanding my knowledge further. ![Data Science Coder GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-![Data Science Coder GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavan-bd-b2a826244)
