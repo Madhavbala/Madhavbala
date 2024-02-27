@@ -13,9 +13,6 @@ My journey into ML and DL began with a fascination for artificial intelligence (
 ![Data Science Coder GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 
-Connect
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavan-bd-b2a826244)
 
 ## Skills
 
@@ -28,4 +25,8 @@ Connect
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/madhavan_resear1)
 
 ![Madhavbala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhavbala&show_icons=true&theme=prussian)
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavan-bd-b2a826244)
 
