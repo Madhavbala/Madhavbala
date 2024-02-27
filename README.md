@@ -13,6 +13,8 @@ My journey into ML and DL began with a fascination for artificial intelligence (
 ![Data Science Coder GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 
+Connect
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavan-bd-b2a826244)
 
 ## Skills
