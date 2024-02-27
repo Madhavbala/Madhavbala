@@ -7,8 +7,7 @@ I am a Software Engineer at Saama Technologies, with a background in Computer Sc
 
 My current focus is on mastering Machine Learning (ML) and Deep Learning (DL). I am deeply passionate about harnessing their capabilities, which has ignited a strong interest in both fields. This enthusiasm led me to enroll in a comprehensive 6-month online Data Science course, where I delved deeper into ML and DL concepts. Recognizing the pivotal role of Data Science in integrating these disciplines, I found the subject captivating and remain dedicated to expanding my expertise.
 
-
-![Data Science Coder GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRhMmx0ajlueHpqbjc4aTRoNXpmMTlxcjBndzdwemQ3aGZ2ZTJuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5rT8xqVLpB6S6Ej89o/giphy.gif)
+![Data Science Coder GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVkajc4YjcxM2M5MzF0cnJ5Ym5pdnFndXhiMzg0c2M1dWF1bTU4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G1ifnX4d5tYFACktp9/giphy.gif)
 
 
 ## Skills
