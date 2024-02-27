@@ -3,11 +3,11 @@ I'm Madhavan BD
 
 ### About Me!
 
-I am a Software Engineer at Saama Technologies, with a background in Computer Science from KG College of Arts and Science, Tamil Nadu. Over the past two years, I have gained valuable experience in the IT and services industry.
+I am a Software Engineer at Saama Technologies, with a background in Computer Science from KG College of Arts and Science, Tamil Nadu. Over the past 1.9 years, I have gained valuable experience in the IT and services industry.
 
-My current focus is on learning Large Language Models (LLMs)., as I am deeply passionate about leveraging their capabilities. This passion has led me to develop a keen interest in Machine Learning (ML) and Deep Learning (DL).
+Currently, my primary focus is on learning ML and DL. I am deeply passionate about leveraging their capabilities, which has sparked an enthusiastic interest in Machine Learning (ML) and Deep Learning (DL).
 
-My journey into ML and DL began with a fascination for artificial intelligence (AI). I quickly realized that Data Science effectively integrates both ML and DL, which motivated me to undertake a 6-month Data Science course. Throughout the course, I found the subject to be captivating and have since been committed to expanding my knowledge further.
+Enthusiastically embracing the world of ML and DL, I embarked on a 6-month online Data Science course. Recognizing the integral role of Data Science, which effectively integrates both ML and DL, I found the subject captivating and have remained committed to expanding my knowledge further.
 
 
 ![Data Science Coder GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
