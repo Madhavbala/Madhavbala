@@ -12,7 +12,7 @@ My current focus is on mastering Machine Learning (ML) and Deep Learning (DL). I
 
 ## Skills
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoHeight=60) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoHeight=60) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoHeight=60) ![Statistics](https://img.shields.io/badge/-Statistics-black?style=flat-square&logo=statistics&logoHeight=60) ![ML](https://img.shields.io/badge/-ML-black?style=flat-square&logo=python&logoHeight=60) ![DL](https://img.shields.io/badge/-DL-black?style=flat-square&logo=python&logoHeight=60) ![PowerBI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=powerbi&logoHeight=60) ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau&logoHeight=60)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoHeight=80) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoHeight=80) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoHeight=80) ![Statistics](https://img.shields.io/badge/-Statistics-black?style=flat-square&logo=statistics&logoHeight=80) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-black?style=flat-square&logo=scikit-learn&logoHeight=80) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow&logoHeight=80) ![PowerBI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=powerbi&logoHeight=80) ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau&logoHeight=80)
 
 
 ## Stats
