@@ -8,7 +8,7 @@
         <h3 style="text-align: center;">A passionate Data Scientist from India</h3>
 
    <ul style="padding-left: 20px;">
-            <li>🌱 I’m currently learning <b>Machine Learning and Deep Learning</b></li>
+            <li>🌱 I’m currently learning <b>Large Language Models(LLM)</b></li>
             <li>💬 Ask me about <b>Data Analyst, Data Scientist</b></li>
             <li>⚡ Fun fact: <b>I am Funny</b></li>
             <li>🎓 I enjoy mentoring and teaching others about programming and data science</li>
